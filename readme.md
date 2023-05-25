@@ -4,6 +4,8 @@ I want to make my own color scheme.
 
 I've got a document here that describes how I want it to be: https://docs.google.com/document/d/115NVbpEAICIbpLF4bPHMdcMsaUz0HUQX0bIIAgZARmI/edit?usp=sharing
 
+Note, that doc includes links to articles for which I've copy pasted from there to here. So some of the words you see here other people wrote. But sources should be in that document I listed above.
+
 # Development
 
 ## Progress
